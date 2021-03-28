@@ -1,0 +1,19 @@
+{
+  "name": "music-library-api",
+  "version": "1.0.0",
+  "description": "A music library REST API, built with Express, Node.js, Sequelize and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratalay/music-library-api.git"
+  },
+  "author": "RA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratalay/music-library-api/issues"
+  },
+  "homepage": "https://github.com/ratalay/music-library-api#readme"
+}
