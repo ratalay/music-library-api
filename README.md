@@ -1,0 +1,1 @@
+A music library REST API, built with Express, Node.js, Sequelize and MySQL.
